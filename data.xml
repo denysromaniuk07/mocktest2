@@ -1,0 +1,23 @@
+<!-- data.xml -->
+<items>
+    <item type="book">
+        <title>Item 1</title>
+        <author>Author 1</author>
+        <price>20.00</price>
+    </item>
+    <item type="movie">
+        <title>Item 2</title>
+        <director>Director 1</director>
+        <price>15.00</price>
+    </item>
+    <item type="album">
+        <title>Item 3</title>
+        <artist>Artist 1</artist>
+        <price>10.00</price>
+    </item>
+    <item type="game">
+        <title>Item 4</title>
+        <developer>Developer 1</developer>
+        <price>25.00</price>
+    </item>
+</items>

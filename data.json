@@ -1,0 +1,26 @@
+[
+    {
+        "type": "book",
+        "title": "Item 1",
+        "author": "Author 1",
+        "price": 20.00
+    },
+    {
+        "type": "movie",
+        "title": "Item 2",
+        "director": "Director 1",
+        "price": 15.00
+    },
+    {
+        "type": "album",
+        "title": "Item 3",
+        "artist": "Artist 1",
+        "price": 10.00
+    },
+    {
+        "type": "game",
+        "title": "Item 4",
+        "developer": "Developer 1",
+        "price": 25.00
+    }
+]
